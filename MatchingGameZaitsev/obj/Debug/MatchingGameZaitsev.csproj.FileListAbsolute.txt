@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.Properties.Resources.resources
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\bin\Debug\MatchingGameZaitsev.exe.config
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\bin\Debug\MatchingGameZaitsev.exe
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\bin\Debug\MatchingGameZaitsev.pdb
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.Form1.resources
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.exe
+C:\Users\Administrator\source\repos\MatchingGameZaitsev\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.pdb
