@@ -1,0 +1,10 @@
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.Properties.Resources.resources
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\bin\Debug\MatchingGameZaitsev.exe.config
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\bin\Debug\MatchingGameZaitsev.exe
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\bin\Debug\MatchingGameZaitsev.pdb
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.exe
+C:\Users\student\Desktop\Leshan 22is-21\MatchingGameZaitsev\obj\Debug\MatchingGameZaitsev.pdb
