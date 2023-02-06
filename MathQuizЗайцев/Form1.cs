@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.Button;
 
 namespace MathQuizЗайцев
 {
@@ -93,6 +94,11 @@ namespace MathQuizЗайцев
             timeLeft = 30;
             timeLabel.Text = "30 секунд";
             timer1.Start();
+            if (timeLeft == 30)
+            {
+                timeLabel.BackColor = Color.White;
+
+            }
 
         }
         public Form1()
@@ -149,8 +155,8 @@ namespace MathQuizЗайцев
                 // got the answer right. Stop the timer  
                 // and show a MessageBox.
                 timer1.Stop();
-                MessageBox.Show("Вы правильно ответили на все вопросы!",
-                                "Поздравляем!");
+                MessageBox.Show("Вы ответили на все вопросы правильно!",
+                                 "Поздравляем!");
                 startButton.Enabled = true;
             }
             else if (timeLeft > 0)
@@ -160,7 +166,7 @@ namespace MathQuizЗайцев
                 // display the new time left by updating the 
                 // Time Left label.
                 timeLeft = timeLeft - 1;
-                timeLabel.Text = timeLeft + " секунды";
+                timeLabel.Text = timeLeft + " cекунды";
                 if (timeLeft == 5)
                 {
                     timeLabel.BackColor = Color.Red;
@@ -172,8 +178,8 @@ namespace MathQuizЗайцев
                 // If the user ran out of time, stop the timer, show
                 // a MessageBox, and fill in the answers.
                 timer1.Stop();
-                timeLabel.Text = "Время вышло!";
-                MessageBox.Show("Вы не закончили вовремя.», «Извините!");
+                timeLabel.Text = "Время кончилось!";
+                MessageBox.Show("Ты не закончил вовремя.", "Извини!");
                 sum.Value = addend1 + addend2;
                 difference.Value = minuend - subtrahend;
                 product.Value = multiplicand * multiplier;
@@ -192,6 +198,13 @@ namespace MathQuizЗайцев
                 int lengthOfAnswer = answerBox.Value.ToString().Length;
                 answerBox.Select(0, lengthOfAnswer);
             }
+        }
+
+        private void начатьЗановоToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            StartTheQuiz();
+            startButton.Enabled = false;
+
         }
 
         private void timeLabel_Click(object sender, EventArgs e)
