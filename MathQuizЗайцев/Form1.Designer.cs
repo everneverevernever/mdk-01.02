@@ -1,4 +1,4 @@
-namespace PictureViewerЗайцев
+namespace MathQuizЗайцев
 {
     partial class Form1
     {
